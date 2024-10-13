@@ -1,8 +1,12 @@
 body {
-  background-color: lightblue;
+  background-color: black;
+  color: green;
+  margin-left: 200px;
+  margin-rightt: 200px;
+
 }
 
 h1 {
-  color: navy;
-  margin-left: 20px;
+  color: green;
+  margin-left: 250px;
 }
