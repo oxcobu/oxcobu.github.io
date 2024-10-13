@@ -1,10 +1,9 @@
 body {
   font-family: "Lucida Console", "Courier New", monospace;
   background-color: black;
-  color: green;
-  margin-left: 20px;
-  margin-rightt: 20px;
-
+  color: lightgreen;
+  width: 500px;
+  margin: auto;
 }
 
 h1 {
