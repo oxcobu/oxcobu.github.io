@@ -1,12 +1,12 @@
 body {
   font-family: "Lucida Console", "Courier New", monospace;
   background-color: black;
-  color: lightgreen;
+  color: limegreen;
   width: 500px;
   margin: auto;
 }
 
 h1 {
-  color: green;
+  color: limegreen;
   margin-left: 25px;
 }
